@@ -19,19 +19,19 @@
         </thead>
         <tbody>
             <tr>
-                <td>Kaos</td>
+                <td>Kaos oversize</td>
                 <td>Kaos katun dengan berbagai pilihan warna</td>
                 <td>Rp 200.000</td>
                 <td>100</td>
             </tr>
             <tr>
-                <td>Kemeja</td>
+                <td>Kemeja hitam</td>
                 <td>Kemeja formal dengan motif garis-garis</td>
                 <td>Rp 350.000</td>
                 <td>50</td>
             </tr>
             <tr>
-                <td>Jaket</td>
+                <td>Jaket crop</td>
                 <td>Jaket denim dengan hoodie</td>
                 <td>Rp 400.000</td>
                 <td>80</td>
